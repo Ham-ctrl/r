@@ -99,10 +99,37 @@ In this section, you'll:
 
 - Use statistics, aggregate functions and visualizations to answer the following questions:
 
-What are the average (mean) departure and arrival delay?
+- What are the average (mean) departure and arrival delay?
 
-How do the carrier compare in terms of arrival delay performance? 
+- How do the carrier compare in terms of arrival delay performance? 
 
-Is there a noticeable difference in arrival delay for different days of the week?
+- Is there a noticeable difference in arrival delay for different days of the week?
 
-Which departure airport has the highest
+- Which departure airport has the highest
+
+- Do late departure tend to reault in longer arrival delays than on-time departure?
+
+- which route (Origin airport to destination airport) has the most late arrival?
+
+- Which route has the highest average arrival delays?
+
+## Quiz
+
+Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check)!
+
+## Next steps
+
+Congratulations on finishing this challenge!
+
+There are other workshops around using R for Data Science. In this workshop, we learnt how to clean data, visualised data and transform data to derive insights and knowledge. The next set of set of workshops will show you how to [create regression models](../intro-regression-R-tidymodels), [classification models](../intro-classification-R-tidymodels) and create clustering models (coming soon!). Be sure to check them out!
+
+## Practice
+
+In this workshop, you used already provided questions to guide your EDA, sometimes this is not the case. Try generating questions of your own and answeing them using data visualisation and transformative skills you have acquire in this module. What new insights do you reveal?
+
+
+## Feedback
+
+Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)! Happy Learning!
+
+[code of conduct](../../CODE_OF_CONDUCT.md)
